@@ -1,6 +1,6 @@
 #include "myvector.h"
 
-MyVector::MyVector()
-{
+//MyVector::MyVector()
+//{
 
-}
+//}
